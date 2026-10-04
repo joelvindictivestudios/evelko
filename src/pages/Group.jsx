@@ -1,0 +1,8 @@
+import React from 'react';
+export default function Group() {
+  return <main id="main">
+<section className="page-hero has-image"><img src="/assets/evelko-technician-control-panel.webp" alt="Tekniker vid fastighetens styrsystem" width="1280" height="557" /><div className="container"><p className="eyebrow">Evelko / 05</p><h1>Koncernen</h1><p>Vi är en del av Sparc Group sedan 2024. Sparc Group är en entreprenörsdriven koncern som förvärvar, utvecklar och samordnar bolag för att tillsammans skapa ett helhetserbjudande inom installationsbranschen.</p></div></section>
+<section className="content-section light"><div className="container content-grid"><div><p className="eyebrow">En del av något större</p><h2>Vi installerar för en hållbar framtid.</h2></div><div className="body"><p>Som en del av Sparc Group har vi behållit vårt namn, våra relationer och vår lokala kultur – det som våra kunder känner igen och uppskattar. Samtidigt verkar vi i ett större sammanhang med kompetens och resurser över hela Sverige inom VVS, el, infra och säkerhet.</p><p>Det ger oss styrkan att kombinera personlig service och lokalkännedom med den breda kunskap och de effektiva lösningar som en hel koncern kan erbjuda.</p><a className="text-link" href="https://www.sparcgroup.se/" target="_blank" rel="noopener noreferrer">Läs mer hos Sparc Group</a></div></div></section>
+<section className="contact-cta"><div className="container contact-cta-grid"><div><p className="eyebrow">Evelko</p><h2>En kontakt för fastighetens teknik.</h2></div><a className="button" href="/kontakta-oss/">Kontakta oss</a></div></section>
+</main>;
+}
